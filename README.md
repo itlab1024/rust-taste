@@ -16,6 +16,7 @@ cargo init 项目名称
 ```
 # 项目结构
 使用`cargo`指令安装完毕后看下其项目结构。
+
 ![](https://itlab1024-1256529903.cos.ap-beijing.myqcloud.com/202301191821820.png)
 
 # 工具推荐
