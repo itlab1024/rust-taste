@@ -1,4 +1,7 @@
 # rust语言浅尝辄止
+![](https://itlab1024-1256529903.cos.ap-beijing.myqcloud.com/202301191827284.png)
+
+[官网地址](https://www.rust-lang.org/)
 # 安装
 [Windows下载地址](https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe)
 
