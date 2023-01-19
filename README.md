@@ -1,4 +1,4 @@
-# rust语言浅尝辄止
+# Rust语言浅尝辄止
 ![](https://itlab1024-1256529903.cos.ap-beijing.myqcloud.com/202301191827284.png)
 
 [官网地址](https://www.rust-lang.org/)
@@ -22,7 +22,7 @@ cargo init 项目名称
 ![](https://itlab1024-1256529903.cos.ap-beijing.myqcloud.com/202301191819967.png)
 支持很多工具，我使用IDEA。
 # 插件安装
-使用IDEA开发rust代码需要安装Rust插件。
+使用IDEA开发Rust代码需要安装Rust插件。
 ![](https://itlab1024-1256529903.cos.ap-beijing.myqcloud.com/202301191820745.png)
 # Hello, world!
 ```rust
